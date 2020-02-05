@@ -1,0 +1,63 @@
+.forgetPW_content{
+    /* width: 100%;
+     margin-top: 40%;
+     text-align: center;*/
+    width: 100%;
+    height: 100%;
+    display: -webkit-flex;  /*Webkit 内核的浏览器，必须加上-webkit前缀。*/
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* text-align: center;*/
+}
+.forgetPW_border{
+    width: 80%;
+    height: 4rem;
+    margin-top: 1rem;
+    margin-left: 10%;
+    line-height: 4rem;
+    text-align: center;
+    border: 1px solid #dddddd;
+    border-radius: 0.5rem;
+    background-color: #efefef;
+}
+.forgetPW_image{
+    width: 10%;
+    margin-top: 0.5rem;
+    float: left;
+    text-align: right;
+}
+.forgetPW_input{
+    outline: unset;    /*点击后的边框设无-----*/
+    width: 80%;
+    float: left;
+    margin-left: 5%;
+    height: 3.7rem;
+    line-height: 3.7rem;
+    border:0;
+    color: #333333;
+    font-size: 1.6rem;
+    background-color: #efefef;
+
+}
+
+.forgetPW_button1{
+    outline: unset;    /*点击后的边框设无-----*/
+    display: block;   /*行内元素转块级元素*/
+    height: 4rem;
+    width: 80%;
+    margin-top: 2rem;
+    margin-left: 10%;
+    font-size: 1.6rem;
+    font-family: "微软雅黑",sans-serif;
+    font-weight: bold;
+    line-height: 3.8rem;
+    border-radius: 0.5rem;
+    color: #ffffff;
+    background-color: #37B4CA;
+    border: 0;
+}
+
+.forgetPW_button1:hover {
+    background-color:#37a3b9;
+}

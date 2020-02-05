@@ -1,0 +1,34 @@
+html{
+    font-size: 62.5% !important;
+}
+
+body::-webkit-scrollbar{
+    display: none;
+}
+
+.container {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+#first-container {
+    z-index:0;
+}
+
+#second-container {
+    z-index: 200;
+}
+
+#third-container {
+    z-index: 200;
+}
+
+/*#mask{
+    position: absolute;
+    height:100%;
+    width:100%;
+    background:rgba(0,0,0,.2);
+    z-index:1;
+}*/

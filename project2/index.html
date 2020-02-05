@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no" />
+    <title>Blog</title>
+    <link rel="stylesheet" type="text/css" href="css/login.css">
+    <link rel="stylesheet" type="text/css" href="css/signUp.css">
+    <link rel="stylesheet" type="text/css" href="css/forgetPW.css">
+    <link rel="stylesheet" type="text/css" href="css/container.css">
+</head>
+<body>
+    <div class="container" id="first-container">
+        <div class="login_content" id="login_page">
+            <div class="login_border">
+                <div class="login_image"><img src="img/login1.png" alt=""></div>
+                <label>
+                    <input class="login_input" type="text" placeholder="UserID"/>
+                </label>
+            </div>
+            <!--End用户id输入框-->
+            <div class="login_border">
+                <div class="login_image"><img src="img/login2.png" alt=""></div>
+                <label>
+                    <input class="login_input" type="password" placeholder="Password"/>
+                </label>
+            </div>
+            <!--End密码输入框-->
+            <button class="login_button" id="login_btn">Login</button>
+            <button class="signUp_button" id="signUp_btn" onclick="signUpShow()">Sign Up</button>
+            <button class="forgetPw_button" id="forgetPW_btn" onclick="forgetPWShow()">Forget Password</button>
+        </div>
+        <!--End登录模块-->
+    </div>
+
+    <div class='container' id='second-container' style='display: none;'>
+        <div class="signUp_content">
+            <div class="signUp_border">
+                <div class="signUp_image"><img src="img/login1.png" alt=""></div>
+                <label>
+                    <input class="signUp_input" type="text" placeholder="UserID"/>
+                </label>
+            </div>
+            <!--End用户id输入框-->
+            <div class="signUp_border">
+                <div class="signUp_image"><img src="img/login1.png" alt=""></div>
+                <label>
+                    <input class="signUp_input" type="text" placeholder="UserName"/>
+                </label>
+            </div>
+            <!--End用户名输入框-->
+            <div class="signUp_border">
+                <div class="signUp_image"><img src="img/login2.png" alt=""></div>
+                <label>
+                    <input class="signUp_input" type="password" placeholder="Password"/>
+                </label>
+            </div>
+            <!--End密码输入框-->
+            <div class="signUp_border">
+                <div class="signUp_image"><img src="img/login2.png" alt=""></div>
+                <label>
+                    <input class="signUp_input" type="password" placeholder="Confirm Password"/>
+                </label>
+            </div>
+            <!--End确认密码输入框-->
+            <button class="signUp_button1" id="signUp_btn1">Sign Up</button>
+            <button class="return-button" id="returnToLogin_btn1" onclick="signUpShow()">Return</button>
+        </div>
+    </div>
+    <!--End注册模块-->
+    <!--<div id='mask' style='display: none;' onclick='returnToLogin()'></div>-->
+
+    <div class='container' id='third-container' style='display: none;'>
+        <div class="forgetPW_content">
+            <div class="forgetPW_border">
+                <div class="forgetPW_image"><img src="img/login1.png" alt=""></div>
+                <label>
+                    <input class="forgetPW_input" type="text" placeholder="UserID"/>
+                </label>
+            </div>
+            <button class="forgetPW_button1" id="forgetPW_btn1">Contact Admin</button>
+            <button class="return-button" id="returnToLogin_btn2" onclick="forgetPWShow()">Return</button>
+        </div>s
+    </div>
+    <!--End找回密码模块-->
+    <!-- <div id='mask1' style='display: none;' onclick='returnToLogin()'></div>-->
+	<script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+	<script src="js/pageShow.js"></script>
+</body>
+</html>

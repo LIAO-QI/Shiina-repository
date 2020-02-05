@@ -1,0 +1,26 @@
+body,html{
+	font-size: 62.5%;
+	padding: 0px;
+	margin: 0px;
+	width: 100%;
+	height: 100%;
+}
+
+.parent{
+	position: relative;
+}
+
+.child{
+	position: absolute;
+}
+
+.container{
+	width: 100%;
+	background-color: aquamarine;
+}
+
+.navigation-1{
+	width: 100%;
+	height: 4rem;
+	background-color: skyblue;
+}
