@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+	</head>
+	<style>
+		body {
+			margin: 0;
+			padding: 0;
+		}
+
+		html {
+			font-size: 62.5%;
+		}
+
+		#test-box
+		,#test-box-1{
+			width: 20%;
+			height: 20rem;
+			background-color: skyblue;
+			transition: height 0.5s;
+			margin-left: 1rem;
+			margin-bottom: 1rem;
+			/* div块高度为0时，内部元素都因溢出而隐藏，但有滚动条，可隐藏。 */
+			overflow: auto;
+		}
+
+		#test-box h1 {
+			/* 给定宽度*/
+			width: 100%;  
+			/* 换行处理：不换行 */
+			white-space: nowrap;
+			/* 溢出内容做隐藏处理 */
+			overflow: hidden;
+			/* 溢出的隐藏内容用省略号替代 */
+			text-overflow: ellipsis; 
+		}
+
+		#test-box::-webkit-scrollbar {
+			display: none;
+		}
+
+		.box-close {
+			height: 0 !important;
+			/* display: none;  不可配合transiton使用 */
+		}
+
+		#btn-box {
+			display: flex;
+			flex-direction: row;
+			align-items: center;
+			margin-left: 1rem;
+		}
+
+		#btn {
+			border: 1px solid red;
+			width: 1rem;
+			height: 1.5rem;
+			margin: 0.5rem;
+			border-radius: 0.5rem;
+			margin-right: 1rem;
+			transition: 0.5s;
+		}
+
+		.btn-change {
+			transform: rotate(360deg);
+		}
+
+/* 		#test-box h1:first-child {
+			position: relative;
+			display: inline-block;
+		}
+
+		.btn-span {
+			visibility: hidden;
+			width: 120px;
+			background-color: skyblue;
+			color: #fff;
+			text-align: center;
+			border-radius: 6px;
+			padding: 5px 0;
+			
+			position: absolute;
+			left: 20px;
+			top: 25px;
+			z-index: 1;
+		}
+		
+		#test-box h1:first-child:hover .btn-span{
+			visibility: visible;
+		} */
+	</style>
+	<body>
+		<div id="btn-box">
+			<!-- 触发一个事件若要调用多个函数，可用逗号相隔 -->
+			<div id="btn" onclick="div_change(),btn_change(this)"></div>
+			<span class="btn-span">点我</span>
+		</div>
+		<div id="test-box">
+			<h1>1This is a transition test!This is a transition test!
+			<!-- <span>This is a transition test!This is a transition test!</span> --></h1>
+			<h1>2This is a transition test!</h1>
+			<h1>3This is a transition test!</h1>
+			<h1>4This is a transition test!</h1>
+			<h1>5This is a transition test!</h1>
+			<h1>6This is a transition test!</h1>
+		</div>
+		<div id="test-box-1">
+			<h1>1This is a transition test!</h1>
+		</div>
+		
+		<script>
+			function div_change() {
+				let testBox = document.getElementById('test-box');
+				if (!testBox.className) {
+					testBox.className = 'box-close';
+				} else {
+					testBox.className = '';
+				}
+			}
+
+			function btn_change(e) {
+				if (!e.className) {
+					e.className = 'btn-change';
+				} else {
+					e.className = '';
+				}
+			}
+		</script>
+	</body>
+</html>
