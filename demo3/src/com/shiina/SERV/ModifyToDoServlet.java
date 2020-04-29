@@ -39,9 +39,13 @@ public class ModifyToDoServlet extends HttpServlet {
             ud = UserFactory.getUserDAOInstance();
             boolean flag  = ud.doUpdate(userModify);
 
-            // 把信息存入request中，转发到doModify.jsp页面用Bean对信息作出修改并打输出到页面上
-            request.setAttribute("userModify",userModify);
-            request.getRequestDispatcher("/doModify.jsp").forward(request,response);
+            if (request.getSession().getAttribute("auth") != null) {
+                // 把信息存入request中，转发到doModify.jsp页面用Bean对信息作出修改并打输出到页面上
+                request.setAttribute("userModify", userModify);
+                request.getRequestDispatcher("/doModify.jsp").forward(request, response);
+            } else {
+                response.sendRedirect(request.getContextPath()+"/index.jsp");
+            }
 
         } catch (Exception e) {
             e.printStackTrace();

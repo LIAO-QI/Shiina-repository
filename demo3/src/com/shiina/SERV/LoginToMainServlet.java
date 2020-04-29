@@ -37,9 +37,17 @@ public class LoginToMainServlet extends HttpServlet {
             map.put("age",user.getAge());
             map.put("password",user.getPassword());
 
-            // 把拿到的信息存入session中，重定向到主页，即可通过自定义标签拿到并输出
-            request.getSession().setAttribute("map",map);
-            response.sendRedirect(request.getContextPath()+"/main.jsp");
+            // 设置登录状态认证，并知道本次会话属于谁（在需要登录才能进行操作的地方就要进行认证）
+            request.getSession().setAttribute("auth",user.getUsername());
+
+            if (request.getSession().getAttribute("auth") != null) {
+                // 把拿到的信息存入session中，重定向到主页，即可通过自定义标签拿到并输出
+                request.getSession().setAttribute("map",map);
+                response.sendRedirect(request.getContextPath()+"/main.jsp");
+            } else {
+                response.sendRedirect(request.getContextPath()+"/index.jsp");
+            }
+
 
         } catch (Exception e) {
             e.printStackTrace();
