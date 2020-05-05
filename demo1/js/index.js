@@ -39,7 +39,7 @@ const getSelector = ele => {
 	toLogin2.onclick = () => {
 		findPWTitle.style.display = "none";
 		registerPage.style.display = "";
-		loginPage.style.display = "";
+		loginPage.style.display = ""; 
 	}	
 	
 })(window,document);

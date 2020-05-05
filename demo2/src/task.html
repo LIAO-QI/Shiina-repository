@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Task</title>
+		<link rel="stylesheet" href="../style/task.css" />
+	</head>
+	<body>
+		<div id="root">
+			
+			<div id="index">
+				<input type="button" value="创建任务" id="creat-task"/>	
+			</div>
+			
+			<div class="mask mask-hide">
+				<div class="task">
+					<div class="task_new">
+						新建任务
+					</div>
+					
+					<div class="task_main">
+						<div class="task_project-name">
+							项目名称
+							<input type="text" value="no name" />
+						</div>
+						
+						<div class="task_project-description">
+							项目描述
+							<input type="text" placeholder="项目描述(可选)" />
+						</div>
+						
+						<div class="task_begin-date">
+							开始日期
+							<input type="datetime" value="2020-04-01" />
+						</div>
+						
+						<div class="task_end-date">
+							结束日期
+							<input type="datetime" value="2020-06-30" />
+						</div>
+						
+						<div class="task_admin">
+							主负责人
+							<input type="text" value="Shiina(如需修改,请在任务管理里转让任务)" disabled="disabled" />
+						</div>
+						
+						<div class="task_members">
+							协作人员
+							<input type="text" value="请在[项目成员]中统一管理" disabled="disabled" />
+						</div>
+					</div>
+					
+					<div class="task_btn">
+						<div class="task_btn-new">
+							<input type="button" value="新建" />
+						</div>
+						<div class="task_btn-cancel">
+							<input type="button" value="取消" id="cancel-task"/>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+		<script src="../script/main/index.js" type="module"></script>
+	</body>
+</html>
