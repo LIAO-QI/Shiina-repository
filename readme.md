@@ -30,10 +30,3 @@
  6. 测试视频在[bilibili (:][6]
 
 [6]: https://www.bilibili.com/video/BV1ef4y1S7Lj
-
-
-
-## 四、关于demo4
-
-1.  2020/08/03 —— vue-cli、vue-router、element-ui仿知乎登录页，功能未写，未完待续...
-2. 食用命令  npm install、npm run serve
