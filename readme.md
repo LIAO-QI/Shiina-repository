@@ -1,6 +1,6 @@
-# 关于demo6
+# 关于demo7
 
- 1. 原生实现仿A站首页（纯前端）
- 2. 源码在[demo6][1]
+ 1. vue-cli、vue-router + Vant移动端的登录注册页（纯前端）
+ 2. 源码在[demo7][1]
 
-[1]: https://github.com/LIAO-QI/Shiina-repository/tree/demo6
+[1]: https://github.com/LIAO-QI/Shiina-repository/tree/demo7
