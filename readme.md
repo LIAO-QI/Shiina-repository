@@ -1,32 +1,26 @@
-# 这里放一些平时写的小demo
+# 关于demo5
 
-## 一、关于demo1
- 1. 样式、逻辑借鉴于[Uni][1]
- 2. loading.gif原址为[Hokori][2]
- 3. animation属性不太熟悉，有点bug
- 4. 源码在[我的github里][3]
+1. 大二下在校实验作业
+2. 基本要求：
 
-[1]: https://github.com/Unicorn-NightFury/Front-end-aesthetics/tree/Demo_1
-[2]: https://hokori.online/image/loading.gif
-[3]: https://github.com/LIAO-QI/Shiina-repository/tree/shiina-demo/demo1
+   -  首页包含用户登录表单以及用户注册的链接；
 
-## 二、关于demo2
+   - 用户注册时，使用ajax技术对用户填写的信息进行唯一性验证；
 
-  1. 第一次写不熟悉，代码可能有点冗余
-  2. 不要以文件方式打开，否则会有跨域问题
-  3. 样式仿[Iconfont][4]的任务弹框
-  4. 源码在[我的github里][5]
+   - 所有页面要求使用前端框架，商品展示需要有分页效果；
 
-[4]: https://www.iconfont.cn/
-[5]: https://github.com/LIAO-QI/Shiina-repository/tree/shiina-demo/demo2
+   - 使用EL和JSTL和自定义标记完成视图层；
 
-## 三、关于demo3
+   - 本程序要实现国际化编程（至少登录页）；
 
- 1. 登陆注册样式沿用demo1然后部分作了微调
- 2. 这是个Javaweb作业，所以没有项目结构可言hhh
- 3. 前端：原生js ；后端：Java ；数据库：MySQL
- 4. 主页、修改页的中间框采用的是bootstrap框架再附带修改了一下
- 5. 作业目的：JSP+Servlet+JavaBean+JDBC模式开发web程序
- 6. 测试视频在[bilibili (:][6]
+   - 本实验中要实现监听器和过滤器的功能，其中至少有一个解决中文问题的过滤器；监听器统计网站的访问量，显示在首页（您是第x位用户）；
 
-[6]: https://www.bilibili.com/video/BV1ef4y1S7Lj
+   - 要求有会员注册、会员购物、期段（某一时间段）会员购物统计功能；
+
+   - 要求一次可以购买多样商品
+3. 技术应用：
+   - 前端：原生js + css + jsp + ajax + jQuery + BootStrap
+   - 后端：原生Servlet完成对数据库的CRUD业务操作
+   - 数据库：MySQL（界面工具：Navicat）
+4. 打开方式：
+   - IntelliJ IDEA打开项目 + Navicat运行.sql文件创建好数据库
