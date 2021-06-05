@@ -28,14 +28,6 @@
 
 [4]: https://www.bilibili.com/video/BV1ef4y1S7Lj
 
-## 四、关于demo4
-
- 1. 2020/08/03 —— vue-cli、vue-router、element-ui仿知乎登录页，功能未写，未完待续...
-
- 2. 2020/08/04 —— 仿发现页大框
-
- 3. 食用命令：①npm install ②npm run serve
-
 ## 五、关于demo5
 
  1. 大二下在校实验作业
