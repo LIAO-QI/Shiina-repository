@@ -8,6 +8,7 @@
 
 ## 三、关于demo3
 作业：JSP+Servlet+JavaBean+JDBC模式开发web程序，测试视频在[bilibili (:][1]
+
 [1]: https://www.bilibili.com/video/BV1ef4y1S7Lj
 
 
