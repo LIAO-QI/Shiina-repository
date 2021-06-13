@@ -12,6 +12,25 @@
 [1]: https://www.bilibili.com/video/BV1ef4y1S7Lj
 
 
+## 四、关于demo4
+vue-cli、vue-router、element-ui仿知乎登录页（纯前端）
+
+
 ## 五、关于demo5
 完善demo3
 
+
+## 六、关于demo6
+原生实现仿A站首页（纯前端）
+
+
+## 七、关于demo7
+vue-cli、vue-router + Vant移动端的登录注册页（纯前端）
+
+
+## 八、关于demo8
+基于SpringBoot+Vue的药品管理系统
+
+
+## 九、关于demo9
+单表/双表/文件上传下载 —— SpringBoot简单CRUD操作
