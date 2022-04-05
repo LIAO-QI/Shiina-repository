@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e54bbc42-f13c-479f-9bda-e3b1095c5a6a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>currentClickRow</find>
+      <find>currentDbRow</find>
+      <find>Button</find>
+      <find>AutumnCrudAdd</find>
+      <find>add</find>
+      <find>goodsModal</find>
+      <find>modal</find>
+      <find>goodsForm</find>
+      <find>$Message</find>
+      <find>queryTable</find>
+      <find>foreignDataOptions</find>
+      <find>添加商品</find>
+      <find>carPhone</find>
+      <find>purchase</find>
+      <find>dataOptions</find>
+      <find>options</find>
+      <find>defaultCondition</find>
+      <find>his.$store.getters.userInfo</find>
+      <find>crudForm</find>
+      <find>showImages</find>
+      <find>data</find>
+      <find>removeBtn</find>
+      <find>extraBtn</find>
+      <find>http</find>
+      <find>图片</find>
+      <find>queryByData</find>
+      <find>condition</find>
+      <find>ondblclick</find>
+      <find>animalName</find>
+      <find>组件</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>AutumnButton</replace>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/views/Register.vue" />
+        <option value="$PROJECT_DIR$/src/views/user/User.vue" />
+        <option value="$PROJECT_DIR$/src/modules/user/userOptions.js" />
+        <option value="$PROJECT_DIR$/src/utils/menusUtils.js" />
+        <option value="$PROJECT_DIR$/src/components/AutumnUpload/ImageUpload.vue" />
+        <option value="$PROJECT_DIR$/src/components/AutumnTableAdd/AutumnTableAdd.vue" />
+        <option value="$PROJECT_DIR$/src/components/AutumnCrudAdd/AutumnCrudAdd.vue" />
+        <option value="$PROJECT_DIR$/src/views/goodsInfo/Goods.vue" />
+        <option value="$PROJECT_DIR$/src/components/AutumnTable/autumnTable.parse.js" />
+        <option value="$PROJECT_DIR$/src/views/goods/Goods.vue" />
+        <option value="$PROJECT_DIR$/src/modules/job/jobOptions.js" />
+        <option value="$PROJECT_DIR$/src/modules/car/carOptions.js" />
+        <option value="$PROJECT_DIR$/src/views/goodsInfo/GoodsInfo.vue" />
+        <option value="$PROJECT_DIR$/src/modules/review/reviewOptions.js" />
+        <option value="$PROJECT_DIR$/src/views/carInfo/CarInfo.vue" />
+        <option value="$PROJECT_DIR$/src/views/myBuy/myBuy.vue" />
+        <option value="$PROJECT_DIR$/src/views/car/Car.vue" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/vue.config.js" />
+        <option value="$PROJECT_DIR$/src/views/Login.vue" />
+        <option value="$PROJECT_DIR$/src/main.js" />
+        <option value="$PROJECT_DIR$/src/style/theme/global/index.less" />
+        <option value="$PROJECT_DIR$/src/components/AutumnButton.vue" />
+        <option value="$PROJECT_DIR$/src/components/themeSetting.js" />
+        <option value="$PROJECT_DIR$/src/modules/goods/goodsOptions.js" />
+        <option value="$PROJECT_DIR$/src/modules/shop/shopOptions.js" />
+        <option value="$PROJECT_DIR$/src/views/job/Job.vue" />
+        <option value="$PROJECT_DIR$/src/views/shop/Shop.vue" />
+        <option value="$PROJECT_DIR$/src/views/shopInfo/ShopInfo.vue" />
+        <option value="$PROJECT_DIR$/src/views/review/Review.vue" />
+        <option value="$PROJECT_DIR$/src/views/Navigation.vue" />
+        <option value="$PROJECT_DIR$/src/style/theme/global/BlackBlueStyle.less" />
+        <option value="$PROJECT_DIR$/src/components/AutumnCrud/AutumnCrud.vue" />
+        <option value="$PROJECT_DIR$/src/components/AutumnTable/AutumnTable.vue" />
+        <option value="$PROJECT_DIR$/src/views/history/History.vue" />
+        <option value="$PROJECT_DIR$/src/views/userAnimal/UserAnimal.vue" />
+        <option value="$PROJECT_DIR$/src/views/foodOrder/FoodOrder.vue" />
+        <option value="$PROJECT_DIR$/src/views/vaccineOrder/VaccineOrder.vue" />
+        <option value="$PROJECT_DIR$/src/settings.js" />
+        <option value="$PROJECT_DIR$/src/api/system/dicApi.js" />
+        <option value="$PROJECT_DIR$/src/modules/animal/animalOptions.js" />
+        <option value="$PROJECT_DIR$/src/modules/vaccine/vaccineOptions.js" />
+        <option value="$PROJECT_DIR$/src/modules/foodorder/foodorderOptions.js" />
+        <option value="$PROJECT_DIR$/src/views/animal/AnimalInfo.vue" />
+        <option value="$PROJECT_DIR$/src/views/animal/MyAnimalInfo.vue" />
+        <option value="$PROJECT_DIR$/src/views/food/FoodInfo.vue" />
+        <option value="$PROJECT_DIR$/src/modules/food/foodOptions.js" />
+        <option value="$PROJECT_DIR$/src/modules/vaccineorder/vaccineorderOptions.js" />
+        <option value="$PROJECT_DIR$/src/views/vaccineorder/VaccineOrderInfo.vue" />
+        <option value="$PROJECT_DIR$/src/views/vaccineorder/VaccineOrder.vue" />
+        <option value="$PROJECT_DIR$/src/views/vaccineorder/VaccineInfo.vue" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="290" />
+    <option name="y" value="110" />
+    <option name="width" value="1300" />
+    <option name="height" value="810" />
+  </component>
+  <component name="ProjectId" id="244y68KM16AQdTxpi78x0x5GkLf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="autumn-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autumn-vue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autumn-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autumn-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autumn-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autumn-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autumn-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autumn-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="animal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autumn-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autumn-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="food" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autumn-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autumn-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="foodorder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autumn-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autumn-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="vaccine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autumn-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autumn-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="vaccineorder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autumn-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autumn-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autumn-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autumn-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="animal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autumn-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autumn-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="food" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autumn-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autumn-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="vaccine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="autumn-vue" type="b2602c69:ProjectViewProjectNode" />
+              <item name="autumn-vue" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="vaccineorder" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/views/job" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.1.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\WareHouse\F_Task\基于分布式的文学作品推荐平台\Project\autumn-vue\src\views\job" />
+      <recent name="C:\WareHouse\F_Task\基于分布式的文学作品推荐平台\Project\autumn-vue\src\views\information" />
+      <recent name="C:\WareHouse\F_Task\基于分布式的文学作品推荐平台\Project\autumn-vue\src\views\good" />
+      <recent name="C:\WareHouse\F_Task\基于分布式的文学作品推荐平台\Project\autumn-vue\src\views\shop" />
+      <recent name="C:\WareHouse\F_Task\基于分布式的文学作品推荐平台\Project\autumn-vue\src\views\goodreview" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\weCode\文档\毕设\基于Tensorflow的智能化企业实习交流\Project\autumn-vue\src\modules\school" />
+      <recent name="D:\weCode\文档\毕设\基于Tensorflow的智能化企业实习交流\Project\autumn-vue\src\modules" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="serve" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.serve" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e54bbc42-f13c-479f-9bda-e3b1095c5a6a" name="Default Changelist" comment="" />
+      <created>1627475565157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627475565157</updated>
+      <workItem from="1627475568914" duration="1210000" />
+      <workItem from="1627476941027" duration="1730000" />
+      <workItem from="1627608272082" duration="974000" />
+      <workItem from="1627650575355" duration="2064000" />
+      <workItem from="1627965889859" duration="19019000" />
+      <workItem from="1628044561910" duration="6482000" />
+      <workItem from="1628252749235" duration="8553000" />
+      <workItem from="1628316822491" duration="6874000" />
+      <workItem from="1628406384810" duration="4032000" />
+      <workItem from="1628469134412" duration="4750000" />
+      <workItem from="1629168053878" duration="252000" />
+      <workItem from="1630500337106" duration="1768000" />
+      <workItem from="1630667284527" duration="1455000" />
+      <workItem from="1633352110258" duration="4434000" />
+      <workItem from="1633406132946" duration="2455000" />
+      <workItem from="1633520097350" duration="594000" />
+      <workItem from="1634091844811" duration="121000" />
+      <workItem from="1634116007217" duration="891000" />
+      <workItem from="1634212546214" duration="3019000" />
+      <workItem from="1634220153340" duration="2897000" />
+      <workItem from="1634382161481" duration="1579000" />
+      <workItem from="1634467108997" duration="12071000" />
+      <workItem from="1634516877178" duration="5142000" />
+      <workItem from="1634537222516" duration="7884000" />
+      <workItem from="1634602712949" duration="14230000" />
+      <workItem from="1634727241648" duration="6712000" />
+      <workItem from="1634972139863" duration="8424000" />
+      <workItem from="1635052801921" duration="34982000" />
+      <workItem from="1635123466204" duration="20863000" />
+      <workItem from="1635226098562" duration="3801000" />
+      <workItem from="1635249136813" duration="11614000" />
+      <workItem from="1635292858972" duration="8845000" />
+      <workItem from="1635334594535" duration="307000" />
+      <workItem from="1635427931461" duration="1269000" />
+      <workItem from="1635505520370" duration="5264000" />
+      <workItem from="1635561407521" duration="1345000" />
+      <workItem from="1635573569051" duration="3307000" />
+      <workItem from="1635596002519" duration="612000" />
+      <workItem from="1635604048037" duration="1793000" />
+      <workItem from="1635609305329" duration="2182000" />
+      <workItem from="1635643832391" duration="6907000" />
+      <workItem from="1635664514252" duration="3860000" />
+      <workItem from="1635915700758" duration="1694000" />
+      <workItem from="1635938941573" duration="1481000" />
+      <workItem from="1638356789456" duration="16649000" />
+      <workItem from="1638403373899" duration="2499000" />
+      <workItem from="1642903978713" duration="277000" />
+      <workItem from="1642904494920" duration="1513000" />
+      <workItem from="1643163434972" duration="8610000" />
+      <workItem from="1644383155715" duration="1969000" />
+      <workItem from="1645343160094" duration="485000" />
+      <workItem from="1646718108689" duration="100000" />
+      <workItem from="1648195745376" duration="27266000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="258890000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19022457" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="npm" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.52113605" weight="0.31412104" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5429326" weight="0.22222222" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32905984" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.25498575" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.47886392" side_tool="true" weight="0.38746437" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28005284" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="npm" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993395" weight="0.2920228" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5957728" weight="0.48433048" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32905984" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.4045584" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5006605" side_tool="true" weight="0.38603988" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vue.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style/theme/global/EnamelBlueStyle.less" />
+    <entry file="file://$PROJECT_DIR$/src/style/theme/global/FantasyPurpleStyle.less" />
+    <entry file="file://$PROJECT_DIR$/src/style/theme/global/index.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/AutumnButton.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/goods/goodsOptions.js" />
+    <entry file="file://$PROJECT_DIR$/src/views/goodsInfo/GoodsInfo.vue" />
+    <entry file="file://$PROJECT_DIR$/src/modules/shop/shopOptions.js" />
+    <entry file="file://$PROJECT_DIR$/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/AutumnCrud/autumnCrud.api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/AutumnCrud/autumnCrud.parse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1848">
+          <caret line="88" column="16" selection-start-line="88" selection-start-column="16" selection-end-line="88" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/job/Job.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/shop/Shop.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/review/Review.vue" />
+    <entry file="file://$PROJECT_DIR$/src/api/login/loginApi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/vuex/types/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/getters.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/AutumnTable/autumnTable.parse.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Navigation.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="126" column="31" lean-forward="true" selection-start-line="126" selection-start-column="31" selection-end-line="126" selection-end-column="31" />
+          <folding>
+            <element signature="n#Header#0;n#Layout#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#Sider#0;n#Layout#0;n#Layout#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/themeSetting.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="40" lean-forward="true" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style/theme/global/BlackBlueStyle.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/history/History.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/goods/Goods.vue" />
+    <entry file="file://$PROJECT_DIR$/src/views/shopInfo/ShopInfo.vue" />
+    <entry file="file://$PROJECT_DIR$/src/components/AutumnCrud/AutumnCrud.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="116" column="39" selection-start-line="115" selection-start-column="20" selection-end-line="116" selection-end-column="39" />
+          <folding>
+            <element signature="n#slot#0;n#template#0;n#Form#0;n#slot#0;n#slot#0;n#Modal#0;n#Header#0;n#Layout#0;n#template#0;n#!!top" />
+            <element signature="n#style#0;n#Table#0;n#Content#0;n#Layout#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#template#0;n#Table#0;n#Content#0;n#Layout#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/AutumnTable/AutumnTable.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2079">
+          <caret line="99" column="35" selection-start-line="99" selection-start-column="35" selection-end-line="99" selection-end-column="35" />
+          <folding>
+            <element signature="n#style#0;n#Table#0;n#Content#0;n#Layout#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#template#0;n#Table#0;n#Content#0;n#Layout#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Login.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1617">
+          <caret line="77" column="14" selection-start-line="77" selection-start-column="14" selection-end-line="77" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/userAnimal/UserAnimal.vue" />
+    <entry file="file://$PROJECT_DIR$/src/modules/userAnimal/useranimalOptions.js" />
+    <entry file="file://$PROJECT_DIR$/src/views/foodorder/FoodOrder.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="22" column="48" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/animal/Animal.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="23" column="59" lean-forward="true" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/settings.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../已完成/基于SpringBoot的企业智能管理平台/Project/autumn-vue/src/api/system/dicApi.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../基于SpringBoot的数据可视化背包客旅行平台设计与实现/Project/autumn-vue/src/api/system/dicApi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" selection-start-line="4" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/http.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/system/dicApi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/foodorder/foodorderOptions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="49" column="59" selection-start-line="49" selection-start-column="59" selection-end-line="49" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/food/Food.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/food/foodOptions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-378">
+          <caret selection-end-line="1" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/vaccineorder/VaccineOrderInfo.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+          <folding>
+            <element signature="e#683#742#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/food/FoodInfo.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/vaccine/Vaccine.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" selection-start-line="11" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/vaccine/vaccineOptions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="31" column="48" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/animal/MyAnimalInfo.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-45">
+          <caret line="44" column="50" selection-start-line="44" selection-start-column="50" selection-end-line="44" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/vaccineorder/vaccineorderOptions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="68" column="54" selection-start-line="68" selection-start-column="54" selection-end-line="68" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/animal/animalOptions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1743">
+          <caret line="84" column="26" selection-start-line="79" selection-start-column="23" selection-end-line="84" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#61#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/webstorm64.exe.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/vaccineorder/VaccineOrder.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="11" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+          <folding>
+            <element signature="e#738#797#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/vaccineorder/VaccineInfo.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2031">
+          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+          <folding>
+            <element signature="n#style#0;n#Select#0;n#FormItem#0;n#Form#0;n#Modal#0;n#Layout#0;n#template#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/animal/AnimalInfo.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-460">
+          <caret line="7" column="64" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
